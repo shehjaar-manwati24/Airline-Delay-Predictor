@@ -12,7 +12,11 @@ This project implements a machine learning model to predict airline arrival dela
 
 ## Dataset
 
-The model uses the `Airline_Delay_Cause_dataset.csv` file which contains the following key columns:
+The model uses the `Airline_Delay_Cause_dataset.csv` file which was downloaded from the site of the Bureau of Transportation Statistics, and official website of the US Government. The link to the site is:
+https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E
+
+I used the filter that too data from January 2024 -  December 2024.
+It contains the following key columns:
 - `year`, `month`: Temporal information
 - `carrier`, `carrier_name`: Airline information
 - `airport`, `airport_name`: Airport information
