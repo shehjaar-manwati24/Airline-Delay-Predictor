@@ -104,10 +104,3 @@ The app provides:
    - Predicted vs actual delay plot
 3. Dataset statistics in the sidebar
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is open source and available under the MIT License. 
